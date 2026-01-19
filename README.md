@@ -1,0 +1,2 @@
+# vendrozapi-creds
+codeDisplay.innerHTML
